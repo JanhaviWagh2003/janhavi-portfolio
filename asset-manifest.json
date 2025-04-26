@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/janhavi-portfolio/static/css/main.11151bcb.css",
+    "main.js": "/janhavi-portfolio/static/js/main.5abc5e89.js",
+    "static/css/64.bba8fa55.chunk.css": "/janhavi-portfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.1985a6d2.chunk.js": "/janhavi-portfolio/static/js/64.1985a6d2.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/janhavi-portfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.d8c19c05.chunk.js": "/janhavi-portfolio/static/js/769.d8c19c05.chunk.js",
+    "static/media/kasnetCircle.png": "/janhavi-portfolio/static/media/kasnetCircle.6bace5a29836c9f32dec.png",
+    "static/media/msbte.png": "/janhavi-portfolio/static/media/msbte.3f4e9ad0b6355d3f9f9d.png",
+    "static/media/Wanderlust-travel-designs-background1.jpg": "/janhavi-portfolio/static/media/Wanderlust-travel-designs-background1.475137c7ddbde0e379c7.jpg",
+    "static/media/Montserrat-Regular.ttf": "/janhavi-portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/janhavi-portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/janhavi-portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/hr.jpg": "/janhavi-portfolio/static/media/hr.c9b1f7d367077e5996fc.jpg",
+    "static/media/conevene.jpg": "/janhavi-portfolio/static/media/conevene.28322905145373d50851.jpg",
+    "static/media/contactMailDark.svg": "/janhavi-portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/janhavi-portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/microsoft-azure-logo.png": "/janhavi-portfolio/static/media/microsoft-azure-logo.096c46415d655460e53b.png",
+    "static/media/images.jpeg": "/janhavi-portfolio/static/media/images.b772365364e299bb0097.jpeg",
+    "static/media/spotify.jpeg": "/janhavi-portfolio/static/media/spotify.24155f5166f5ebba64ca.jpeg",
+    "static/media/skill.svg": "/janhavi-portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/ieee-logo.webp": "/janhavi-portfolio/static/media/ieee-logo.e1ee001cc7826f05b600.webp",
+    "index.html": "/janhavi-portfolio/index.html",
+    "main.11151bcb.css.map": "/janhavi-portfolio/static/css/main.11151bcb.css.map",
+    "main.5abc5e89.js.map": "/janhavi-portfolio/static/js/main.5abc5e89.js.map",
+    "64.bba8fa55.chunk.css.map": "/janhavi-portfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.1985a6d2.chunk.js.map": "/janhavi-portfolio/static/js/64.1985a6d2.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/janhavi-portfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.d8c19c05.chunk.js.map": "/janhavi-portfolio/static/js/769.d8c19c05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11151bcb.css",
+    "static/js/main.5abc5e89.js"
+  ]
+}
