@@ -164,14 +164,6 @@ const techStack = {
       progressPercentage: "75%"
     },
     {
-      Stack: "Backend Development",
-      progressPercentage: "50%"
-    },
-    {
-      Stack: "Cloud (Microsoft Azure)",
-      progressPercentage: "60%"
-    },
-    {
       Stack: "Data Analytics (Power BI)",
       progressPercentage: "70%"
     }
@@ -199,21 +191,7 @@ const workExperiences = {
         "Provided Power BI training and support to team members."
       ]
     },
-    {
-      role: "Front-End Developer",
-      company: "CodeSoft",
-      companylogo: require("./assets/images/codesoftcircle.jpg"),
-      date: "May 2024 – June 2025",
-      desc: "Contributed to developing user-friendly, responsive web applications using HTML, CSS, and JavaScript. Collaborated with design and back-end teams to deliver seamless digital experiences.",
-      descBullets: [
-      "Developed and maintained responsive web pages using HTML5, CSS3, and JavaScript.",
-      "Worked with the design team to ensure UI/UX consistency and user-friendly layouts.",
-      "Integrated third-party APIs to enhance functionality and user experience.",
-      "Ensured cross-browser compatibility and optimized page load times.",
-      "Participated in code reviews and continuous improvement processes."
-      ]
-    },
-    
+   
   ]
 };
 
@@ -322,7 +300,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certificate",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          url: "https://drive.google.com/file/d/1VCWq8vPJmB21V9FqiETqMQumsLd65aXF/view?usp=drive_link"
         }
       ]
     }
@@ -362,12 +340,12 @@ export {
   illustration,
   greeting,
   socialMediaLinks,
+  openSource,
   splashScreen,
   skillsSection,
   educationInfo,
   techStack,
   workExperiences,
-  openSource,
   bigProjects,
   achievementSection,
   contactInfo,
